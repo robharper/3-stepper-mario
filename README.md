@@ -1,4 +1,4 @@
-# 3 Stepper Mario
+# 3-Stepper Mario: Stepper motor Super Mario Bros Music
 
 > Super Mario Brothers level 1 music using 3 stepper motors + 1 Arduino Uno
 
